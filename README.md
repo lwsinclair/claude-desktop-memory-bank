@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/philippe-guerit-claude-desktop-memory-bank-badge.png)](https://mseep.ai/app/philippe-guerit-claude-desktop-memory-bank)
+
 # Claude Desktop Memory Bank
 
 A Model Context Protocol (MCP) server that provides autonomous memory persistence for Claude Desktop.
